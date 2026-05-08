@@ -1,3 +1,4 @@
+aiohttp
 requests
 pyTelegramBotAPI
 playwright
@@ -5,3 +6,7 @@ flask
 colorama
 urllib3
 aiohttp
+python-telegram-bot==20.7
+requests
+beautifulsoup4
+lxml
