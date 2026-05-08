@@ -4,3 +4,4 @@ playwright
 flask
 colorama
 urllib3
+aiohttp
